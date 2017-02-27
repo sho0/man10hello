@@ -1,0 +1,12 @@
+tp:
+  x:
+  y:
+  z:
+chat_trigger:
+ - おはまん
+ - ohaman
+message:
+  enable_broadcast: true
+  message: '&5ようこそ～%PLAYER%さん'
+  enable_prefix: true
+  prefix: '&6[&5man10hello&6]'

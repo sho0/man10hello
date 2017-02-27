@@ -1,0 +1,7 @@
+name: Man10hello
+version: ${project.version}
+main: red.man10.man10hello.Man10hello
+commands:
+    man10h:
+        description: man10 hello command
+        usage: /man10h
