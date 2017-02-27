@@ -2,6 +2,9 @@ tp:
   x:
   y:
   z:
+  vx:
+  vy:
+  vz:
 chat_trigger:
  - おはまん
  - ohaman
